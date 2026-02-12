@@ -1,3 +1,4 @@
+# Symposium-FrontEnd
 # Symposium (Expo App)
 
 ## Quick start (run the app)
